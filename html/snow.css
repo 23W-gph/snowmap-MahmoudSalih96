@@ -1,0 +1,31 @@
+
+h1 {color: brown;}
+body {
+display: grid;
+grid-template-areas: 
+'article aticle article aside aside';
+
+    color: burlywood;
+}
+menu {border-style: dotted;}
+table {margin: 0%
+    font size: 24px;
+width: 50%;
+height: 50%;
+}
+
+
+td {
+    padding: 1px;
+    border: 1px solid black;
+}
+
+b {
+    display: block;
+}
+aside {
+    font-style: italic;
+    float: left;
+}
+
+
